@@ -1,0 +1,287 @@
+{
+  "pays": "Comores",
+  "drapeau": "🇰🇲",
+  "symbole": "🌙",
+  "titre": "Comores, l'Archipel de la Lune",
+  "budget": "2200€",
+  "duree": "12 jours",
+  "temps_vol": "Environ 13h avec escale",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sur l'île de la Lune",
+      "legende": "Après un long vol, l'arrivée à Moroni se fait en douceur. C'est le moment de s'imprégner de l'atmosphère unique de la capitale comorienne, entre l'agitation du port et la quiétude des premières ruelles. La fatigue du voyage s'estompe face à la chaleur de l'accueil et aux senteurs épicées qui flottent dans l'air. Une première soirée pour s'acclimater au rythme insulaire.",
+      "lieu": "Moroni, Grande Comore",
+      "activites": [
+        "🛬 <strong>Arrivée et transfert:</strong> Accueil à l'aéroport international Prince Saïd Ibrahim et installation à votre hébergement à Moroni.",
+        "🚶‍♂️ <strong>Premiers pas dans la médina:</strong> Une balade légère dans le dédale de la vieille ville pour un premier contact avec l'architecture locale et l'ambiance animée des fins de journée."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Change",
+          "texte": "Pensez à changer des euros en francs comoriens (KMF) dès l'aéroport pour vos premières dépenses, les distributeurs pouvant être rares en dehors de Moroni."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🕌",
+      "titre": "Cœur battant de Moroni",
+      "legende": "Plongée dans l'effervescence de la capitale. Le marché Volo Volo est un spectacle pour les sens, un concentré de la vie comorienne où se mêlent couleurs, saveurs et sons. La journée est une immersion dans le quotidien des habitants, de l'agitation commerciale à la sérénité de la Grande Mosquée, emblème de la ville qui se dresse fièrement face à l'océan Indien.",
+      "lieu": "Moroni, Grande Comore",
+      "activites": [
+        "🛍️ <strong>Marché Volo Volo:</strong> Explorez le plus grand marché du pays, un lieu vibrant où vous trouverez fruits exotiques, épices enivrantes et artisanat local.",
+        "🕌 <strong>Ancienne Mosquée du Vendredi:</strong> Admirez ce joyau architectural du XVe siècle avec ses portes sculptées et son emplacement spectaculaire en bord de mer."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🧣",
+          "titre": "Tenue correcte",
+          "texte": "Pour la visite des mosquées et des lieux de culte, une tenue couvrante (épaules et genoux) est requise pour les hommes comme pour les femmes."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌋",
+      "titre": "Terres volcaniques du Nord",
+      "legende": "Départ pour le nord de la Grande Comore, une région aux paysages lunaires sculptés par l'activité volcanique. Entre le mystérieux Lac Salé aux couleurs émeraude et les formations de lave noire plongeant dans le bleu de l'océan, la route révèle des panoramas saisissants. C'est aussi l'occasion de découvrir la culture de l'ylang-ylang, fleur emblématique qui a valu aux Comores leur surnom d'îles aux parfums.",
+      "lieu": "Nord de la Grande Comore",
+      "activites": [
+        "💧 <strong>Lac Salé (Lac Niamawi):</strong> Découvrez ce lac de cratère aux eaux salées et à la couleur intense, un lieu chargé de légendes locales.",
+        "🌊 <strong>Trou du Prophète:</strong> Admirez ce site naturel spectaculaire où l'océan s'engouffre dans une arche de lave, offrant un spectacle puissant à marée haute."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "La location d'une voiture avec chauffeur-guide est la meilleure option pour explorer l'île à votre rythme et accéder aux sites plus isolés."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🐠",
+      "titre": "Au sud, sur les traces du Cœlacanthe",
+      "legende": "Le sud de l'île offre un visage différent, avec ses plages de sable blanc et ses villages de pêcheurs paisibles. C'est ici, dans ces eaux profondes, que vit le cœlacanthe, poisson préhistorique que l'on croyait disparu. La journée est une invitation à la détente sur des plages idylliques et à la découverte de cette fascinante histoire scientifique, un véritable trésor national.",
+      "lieu": "Sud de la Grande Comore",
+      "activites": [
+        "🏖️ <strong>Plage de Bouni:</strong> Profitez de l'une des plus belles plages de l'île, avec son sable blanc immaculé et ses eaux turquoise, idéale pour la baignade.",
+        "🔬 <strong>Histoire du Cœlacanthe:</strong> Visitez le centre de documentation à Iconi pour en apprendre davantage sur la découverte de ce poisson fossile, véritable emblème des Comores."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Poisson légendaire",
+          "texte": "Le Cœlacanthe, ou 'Gombessa', vit entre 150 et 700 mètres de profondeur et sa pêche est strictement interdite. Sa découverte en 1938 a été une révolution scientifique."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "⛰️",
+      "titre": "Ascension du géant Karthala",
+      "legende": "Journée dédiée aux plus sportifs avec l'ascension du Karthala, l'un des plus grands volcans actifs au monde. Le trek à travers la forêt tropicale humide, puis les paysages de landes d'altitude, est une expérience intense. L'arrivée au sommet est récompensée par une vue spectaculaire sur l'immense caldeira et un panorama à 360° sur toute l'île.",
+      "lieu": "Volcan Karthala, Grande Comore",
+      "activites": [
+        "🥾 <strong>Trek vers le cratère:</strong> Une randonnée exigeante d'une journée (environ 6-8h de marche aller-retour) pour atteindre le sommet à 2361 mètres et contempler son immense cratère."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "💪",
+          "titre": "Condition physique",
+          "texte": "Cette ascension nécessite une très bonne condition physique. Partez tôt le matin avec un guide local, beaucoup d'eau et des vêtements adaptés aux changements de température."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "✈️",
+      "titre": "Envol pour Mohéli, le jardin secret",
+      "legende": "Après l'effort, le réconfort. La matinée est libre pour se reposer avant de quitter la Grande Comore. Un court vol intérieur vous transporte à Mohéli, la plus petite et la plus sauvage des îles de l'archipel. L'atmosphère y est radicalement différente, plus paisible et authentique. C'est le début d'une nouvelle aventure, au cœur d'un éden préservé.",
+      "lieu": "Moroni -> Fomboni, Mohéli",
+      "activites": [
+        "🛌 <strong>Matinée de repos:</strong> Profitez de la matinée pour vous détendre à Moroni après le trek de la veille.",
+        "✈️ <strong>Vol vers Mohéli:</strong> Prenez un vol domestique pour Fomboni, la capitale de Mohéli, et installez-vous dans votre hébergement au cœur de la nature."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Vols internes",
+          "texte": "Les vols entre les îles sont opérés par de petites compagnies. Il est impératif de réserver vos billets bien à l'avance car les places sont limitées."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🐢",
+      "titre": "Plongée au cœur du Parc Marin",
+      "legende": "Exploration du Parc Marin de Mohéli, un sanctuaire de biodiversité marine créé en 2001, le premier du pays. Les fonds marins y sont d'une richesse exceptionnelle, abritant coraux, tortues, dauphins et même des baleines à bosse en saison. Que ce soit en snorkeling ou en plongée, l'expérience est inoubliable, une immersion totale dans un aquarium naturel géant.",
+      "lieu": "Parc Marin de Mohéli",
+      "activites": [
+        "🐠 <strong>Snorkeling ou plongée:</strong> Explorez les récifs coralliens foisonnants de vie et nagez avec les tortues vertes, une expérience magique.",
+        "🏝️ <strong>Îlots de Nioumachoua:</strong> Faites une excursion en bateau pour découvrir les îlots inhabités du parc, des refuges pour de nombreuses espèces d'oiseaux marins."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🐋",
+          "titre": "Saison des baleines",
+          "texte": "De juillet à octobre, les baleines à bosse viennent se reproduire dans les eaux chaudes de Mohéli. Des sorties respectueuses sont organisées pour les observer."
+        },
+        {
+          "symbole": "☀️",
+          "titre": "Protection solaire",
+          "texte": "Utilisez une crème solaire respectueuse des coraux pour préserver cet écosystème fragile."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🌕",
+      "titre": "Nuit magique avec les tortues d'Itsamia",
+      "legende": "Direction le village d'Itsamia, un modèle d'écotourisme communautaire mondialement reconnu pour la protection des tortues marines. La journée permet de découvrir les initiatives locales et de s'imprégner de la vie du village. Mais le clou du spectacle a lieu à la nuit tombée, sur la plage, où l'on assiste en silence au rituel ancestral de la ponte des tortues vertes.",
+      "lieu": "Itsamia, Mohéli",
+      "activites": [
+        "🤝 <strong>Découverte d'Itsamia:</strong> Rencontrez les éco-gardes du village qui vous expliqueront leur travail de conservation et l'importance des tortues pour la communauté.",
+        "🌙 <strong>Observation de la ponte:</strong> À la nuit tombée, participez à une veille sur la plage pour observer, dans le plus grand respect, les tortues venues déposer leurs œufs."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🤫",
+          "titre": "Respect de la faune",
+          "texte": "L'observation se fait en silence, sans lumière blanche (lumière rouge uniquement) et à distance pour ne pas déranger les tortues. Suivez impérativement les consignes des guides."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🦇",
+      "titre": "Forêts et senteurs de Mohéli",
+      "legende": "L'intérieur de Mohéli est un écrin de verdure luxuriante, parsemé de plantations d'épices et de fleurs à parfum. Une randonnée en forêt est l'occasion de partir à la recherche d'une créature endémique et menacée : la roussette de Livingstone, l'une des plus grandes chauves-souris au monde. C'est une immersion dans le poumon vert de l'île, au son des oiseaux et au parfum de la vanille et du girofle.",
+      "lieu": "Intérieur de Mohéli",
+      "activites": [
+        "🦇 <strong>Roussettes de Livingstone:</strong> Partez avec un guide pour une randonnée à la recherche des perchoirs de ces impressionnantes chauves-souris frugivores, essentielles à la régénération de la forêt.",
+        "🌿 <strong>Visite de plantation:</strong> Découvrez les secrets de la culture de l'ylang-ylang, de la vanille ou du clou de girofle dans une plantation familiale."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🗺️",
+          "titre": "Guide indispensable",
+          "texte": "Ne vous aventurez pas seul en forêt. Les sentiers sont peu balisés et un guide local est essentiel pour votre sécurité et pour trouver les animaux."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🏝️",
+      "titre": "Derniers instants mohéliens",
+      "legende": "Dernière matinée pour profiter de la quiétude de Mohéli. Un dernier bain dans le lagon, une dernière balade sur la plage ou simplement un moment de détente face à l'océan. Il est ensuite temps de faire ses adieux à ce petit paradis pour reprendre un vol vers la Grande Comore. Le retour à Moroni permet de se préparer en douceur au départ du lendemain.",
+      "lieu": "Fomboni -> Moroni",
+      "activites": [
+        "🏊 <strong>Dernière baignade:</strong> Profitez d'une matinée libre pour vous relaxer sur une plage de Mohéli.",
+        "✈️ <strong>Retour à Grande Comore:</strong> Transfert à l'aéroport de Fomboni pour le vol retour vers Moroni et installation à votre hôtel."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🧳",
+          "titre": "Bagages",
+          "texte": "Les franchises de bagages sur les vols intérieurs sont souvent plus faibles que sur les vols internationaux. Vérifiez le poids autorisé pour éviter les suppléents."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛍️",
+      "titre": "Culture et artisanat comorien",
+      "legende": "Cette dernière journée complète est consacrée à la culture et aux achats de souvenirs. Le Musée National des Comores offre un aperçu fascinant de l'histoire, des traditions et de la biodiversité de l'archipel. L'après-midi est idéale pour flâner dans les marchés artisanaux à la recherche de cadeaux uniques qui captureront l'essence de votre voyage.",
+      "lieu": "Moroni, Grande Comore",
+      "activites": [
+        "🏛️ <strong>Musée National des Comores:</strong> Plongez dans l'histoire de l'archipel, de la période des sultans à nos jours, à travers ses collections variées.",
+        "🎁 <strong>Shopping souvenirs:</strong> Dénichez des trésors au Centre National de l'Artisanat (CNAC) : sculptures en bois, bijoux, tissus colorés et bien sûr, des épices."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🌶️",
+          "titre": "Idées de souvenirs",
+          "texte": "Rapportez de la vanille, des clous de girofle, de la cannelle ou de l'huile essentielle d'ylang-ylang pour prolonger le voyage de vos sens une fois rentré."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🛫",
+      "titre": "Départ, des parfums plein la tête",
+      "legende": "C'est le moment de dire au revoir à l'Archipel de la Lune. Après un dernier petit-déjeuner aux saveurs locales, direction l'aéroport. Les souvenirs des paysages volcaniques, des fonds marins exceptionnels et des rencontres chaleureuses vous accompagneront sur le chemin du retour. Les Comores laissent une empreinte durable, un mélange de parfums et d'émotions pures.",
+      "lieu": "Moroni, Grande Comore",
+      "activites": [
+        "☕ <strong>Dernier petit-déjeuner comorien:</strong> Savourez une dernière fois les fruits frais et les spécialités locales.",
+        "🛫 <strong>Vol retour vers Paris:</strong> Transfert à l'aéroport Prince Saïd Ibrahim pour votre vol international."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Aéroport",
+          "texte": "Prévoyez d'arriver à l'aéroport au moins 3 heures avant le décollage de votre vol international pour effectuer les formalités sereinement."
+        }
+      ]
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "La période idéale pour ce séjour s'étend de mai à novembre, durant la saison sèche.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Climat tropical maritime. Saison sèche (mai-nov) avec des températures agréables (25-30°C). Saison des pluies (déc-avril) plus chaude et humide.",
+      "symbole": "🌡️"
+    },
+    {
+      "titre": "La monnaie est le Franc Comorien (KMF). L'euro est accepté dans certains grands hôtels mais le change reste plus avantageux. Retraits limités.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Pour les déplacements, les taxis-brousse sont locaux mais la location de voiture avec chauffeur est recommandée pour plus de confort et de flexibilité.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Achetez une carte SIM locale (Telma, Huri) à l'arrivée pour un accès internet plus fiable. Le Wifi dans les hôtels peut être lent et intermittent.",
+      "symbole": "📶"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations générales",
+      "titre": "Le Petit Futé Comores",
+      "url": "https://www.petitfute.com/d322-comores/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Vols inter-îles",
+      "titre": "AB Aviation",
+      "url": "https://flyabaviation.com/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Prévisions météo",
+      "titre": "Météo Moroni",
+      "url": "https://www.lachainemeteo.com/meteo-comores/ville-353215/previsions-meteo-moroni-aujourdhui",
+      "symbole": "🌤️"
+    }
+  ]
+}
